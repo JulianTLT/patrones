@@ -1,0 +1,2 @@
+# patrones
+proyecto patrones
